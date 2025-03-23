@@ -84,10 +84,6 @@ The application features a responsive layout that automatically adjusts to diffe
 - The modal view adapts to a single column layout on mobile devices
 - All UI elements scale appropriately across different screen sizes
 
-## 👥 Authors
-
-- Julia Souza
-
 ## 🙏 Acknowledgments
 
 - Open Library API for providing book data
